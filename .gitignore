@@ -1,0 +1,12 @@
+*.png
+*.pyc
+*.db
+
+data/*.py
+data/*.ipynb
+
+env_tb/
+.ipynb_checkpoints/
+archives/
+logs/
+tmp/
