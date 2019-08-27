@@ -15,14 +15,21 @@
 以下、requirements.txt参照
 
 ### 環境構築
+- Google Colabの利用(推奨)
+  - [参考記事](https://learning-with-machine.hatenablog.com/entry/2019/05/31/010459)
+
 - ローカルに環境構築
 ```
 $ pip install -U pip
 $ pip install -r requirements.txt
 ```
 
-- Google Colabの利用(推奨)
-  - [参考記事](https://learning-with-machine.hatenablog.com/entry/2019/05/31/010459)
-
 
 ## 構成
+- sample_pymc3.ipynb
+  - PyMC3の基本的な書き方
+  - 正確には、[公式ドキュメント](https://docs.pymc.io/)を参照
+- basic_distribution.ipynb
+  - 3章で紹介する、確率分布の可視化コード
+- tech_book_choco.ipynb
+  - 4章で実際にチョコボールのエンゼル出現確率を推定するコード
