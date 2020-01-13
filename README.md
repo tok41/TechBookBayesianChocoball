@@ -1,9 +1,8 @@
-# TechBookBayesianChocoball
+# TechBookBaysianChocoball
 
-本リポジトリは、「チョコボールのエンゼル出現確率をベイズ推定する」(技術書典7, 2F「く29D」)のサポートリポジトリです。
+本リポジトリは、チョコボール統計研究所が作成するテキストのサポートページです。
 
-書籍内で紹介するソースコードをまとめています。
-
+テキスト内で紹介するソースコードをまとめています。
 
 ## 実行環境
 動作確認済みの環境は以下の通りです。
@@ -24,12 +23,12 @@ $ pip install -U pip
 $ pip install -r requirements.txt
 ```
 
-
 ## 構成
-- sample_pymc3.ipynb
-  - PyMC3の基本的な書き方
-  - 正確には、[公式ドキュメント](https://docs.pymc.io/)を参照
-- basic_distribution.ipynb
-  - 3章で紹介する、確率分布の可視化コード
-- tech_book_choco.ipynb
-  - 4章で実際にチョコボールのエンゼル出現確率を推定するコード
+テキストとディレクトリの対応
+
+- EstimateAngelRate
+  - 技術書典7, チョコボールのエンゼル出現確率をベイズ推定する
+- AnalyzeLuck
+  - TBW
+
+
