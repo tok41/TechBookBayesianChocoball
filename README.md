@@ -29,6 +29,6 @@ $ pip install -r requirements.txt
 - EstimateAngelRate
   - 技術書典7, チョコボールのエンゼル出現確率をベイズ推定する
 - AnalyzeLuck
-  - TBW
+  - 技術書典8, エンゼル出現確率を題材にベイズモデリングにより運の量を定量化する
 
 
